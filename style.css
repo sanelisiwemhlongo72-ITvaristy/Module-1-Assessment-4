@@ -1,0 +1,26 @@
+h3{
+    
+    color:blueviolet;
+    font-family: sans-serif;   
+    font-family: Helvetica, sans-serif;
+    font-style: oblique;
+    
+}
+th{
+    color: darkblue;
+    font-family: Impact, sans-serif;
+    font-style: oblique;
+    text-align: center;
+    font-weight: bolder;
+    background-color:azure;
+}
+
+td{
+    color:darkslateblue;
+    font-family: inherit;
+    font-style: italic;
+}
+table{
+    border-collapse: collapse;
+    font-family: cursive;
+}
